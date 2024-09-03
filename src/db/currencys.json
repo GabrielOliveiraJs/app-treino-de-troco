@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "5 centavos",
+        "value": 0.05,
+        "image": "./images/5_centavos.png"
+    },
+    {
+        "id": 2,
+        "name": "10 centavos",
+        "value": 0.10,
+        "image": "./images/10_centavos.png"
+    },
+    {
+        "id": 3,
+        "name": "25 centavos",
+        "value": 0.25,
+        "image": "./images/25_centavos.png"
+    },
+    {
+        "id": 4,
+        "name": "50 centavos",
+        "value": 0.50,
+        "image": "./images/50_centavos.png"
+    },
+    {
+        "id": 5,
+        "name": "1 real",
+        "value": 1.00,
+        "image": "./images/1_real.png"
+    },
+    {
+        "id": 6,
+        "name": "2 reais",
+        "value": 2.00,
+        "image": "./images/2_reais.png"
+    },
+    {
+        "id": 7,
+        "name": "5 reais",
+        "value": 5.00,
+        "image": "./images/5_reais.png"
+    },
+    {
+        "id": 8,
+        "name": "10 reais",
+        "value": 10.00,
+        "image": "./images/10_reais.png"
+    },
+    {
+        "id": 9,
+        "name": "20 reais",
+        "value": 20.00,
+        "image": "./images/20_reais.png"
+    },
+    {
+        "id": 10,
+        "name": "50 reais",
+        "value": 50.00,
+        "image": "./images/50_reais.png"
+    },
+    {
+        "id": 11,
+        "name": "100 reais",
+        "value": 100.00,
+        "image": "./images/100_reais.png"
+    },
+    {
+        "id": 12,
+        "name": "200 reais",
+        "value": 200.00,
+        "image": "./images/200_reais.png"
+    }
+]

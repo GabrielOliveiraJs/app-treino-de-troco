@@ -1,0 +1,29 @@
+.container {
+    flex: 1;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.container .totalText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.imageContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.imageContainer .bill {
+    width: 80px;
+}
+
+.imageContainer .coin {
+    width: 50px;
+}

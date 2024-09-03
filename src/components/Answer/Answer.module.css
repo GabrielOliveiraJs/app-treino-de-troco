@@ -1,0 +1,35 @@
+.answerContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.answerContainer p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.correctAnswer {
+    color: #38b000;
+}
+
+.incorrectAnswer {
+    color: #d90429;
+}
+
+.changeContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 0;
+}
+
+.changeContainer li {
+    list-style: none;
+}
+
+.changeContainer img {
+    width: 100px;
+}

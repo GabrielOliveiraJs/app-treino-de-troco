@@ -1,0 +1,15 @@
+.coin {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.coin img {
+    width: 100%;
+    transition: all 0.2s ease-in-out;
+}
+
+.coin:hover img {
+    opacity: 0.8;
+}

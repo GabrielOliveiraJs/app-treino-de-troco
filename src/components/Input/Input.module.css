@@ -1,0 +1,23 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 200px;
+}
+
+.inputContainer label {
+    font-size: 1.2rem;
+}
+
+.inputContainer input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #000;
+    font-size: 1.2rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.inputContainer input:focus {
+    outline: none;
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "5 centavos",
+        "value": 0.05,
+        "image": "./images/5_centavos.png"
+    },
+    {
+        "name": "10 centavos",
+        "value": 0.10,
+        "image": "./images/10_centavos.png"
+    },
+    {
+        "name": "25 centavos",
+        "value": 0.25,
+        "image": "./images/25_centavos.png"
+    },
+    {
+        "name": "50 centavos",
+        "value": 0.50,
+        "image": "./images/50_centavos.png"
+    },
+    {
+        "name": "1 real",
+        "value": 1.00,
+        "image": "./images/1_real.png"
+    }
+]

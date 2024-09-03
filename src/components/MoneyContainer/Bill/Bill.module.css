@@ -1,0 +1,13 @@
+.bill {
+    width: 200px;
+    cursor: pointer;    
+}
+
+.bill img {
+    width: 100%;
+    transition: all 0.2s ease-in-out;
+}
+
+.bill:hover img {
+    opacity: 0.8;
+}
