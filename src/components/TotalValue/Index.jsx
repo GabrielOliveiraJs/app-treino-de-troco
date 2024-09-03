@@ -1,6 +1,6 @@
 import styles from './TotalValue.module.css'
 import { useMainContext } from '../../contexts/MainContext'
-import Input from '../Input'
+import Input from '../Input/Index'
 import ValueHighlight from '../ValueHighlight/Index'
 import RoundedValue from '../RoundedValue/Index'
 
